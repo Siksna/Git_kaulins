@@ -16,6 +16,7 @@ public class Git_kaulins {
 int reizes;
 
 Scanner dati = new Scanner(System.in);
+System.out.println("viss guud");
 System.out.println("Cik reizes mest kaulinu?");
 reizes = dati.nextInt();
 mestKaulinu(reizes);
